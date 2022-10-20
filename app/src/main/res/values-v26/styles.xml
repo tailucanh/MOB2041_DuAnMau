@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="FabShapeStyle" parent="ShapeAppearance.Material3.SmallComponent">
+        <item name="cornerSize">50%</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+        <item name="cornerFamilyBottomLeft">rounded</item>
+        <item name="cornerFamilyBottomRight">cut</item>
+        <item name="cornerFamilyTopLeft">rounded</item>
+        <item name="cornerFamilyTopRight">rounded</item>
+    </style>
+    <style name="FabShapeStyle3" parent="ShapeAppearance.Material3.SmallComponent">
+        <item name="cornerSize">50%</item>
+        <item name="cornerFamilyBottomLeft">rounded</item>
+        <item name="cornerFamilyBottomRight">rounded</item>
+        <item name="cornerFamilyTopLeft">cut</item>
+        <item name="cornerFamilyTopRight">cut</item>
+    </style>
+    <style name="FabShapeStyle2" parent="ShapeAppearance.Material3.SmallComponent">
+        <item name="cornerSize">30%</item>
+        <item name="cornerFamily">cut</item>
+    </style>
+    <style name="FabShapeStyle4" parent="ShapeAppearance.Material3.SmallComponent">
+        <item name="cornerSize">22%</item>
+    </style>
+    <style name="FabShapeStyle5" parent="ShapeAppearance.Material3.SmallComponent">
+        <item name="cornerSize">50%</item>
+        <item name="cornerSizeBottomRight">40dp</item>
+        <item name="cornerSizeBottomLeft">40dp</item>
+        <item name="cornerFamilyBottomLeft">rounded</item>
+        <item name="cornerFamilyBottomRight">rounded</item>
+        <item name="cornerFamilyTopLeft">rounded</item>
+        <item name="cornerFamilyTopRight">rounded</item>
+    </style>
+    <style name="style_text_full_screen_activity">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/brandon</item>
+        <item name="android:text">Books</item>
+        <item name="android:textColor">@color/gray_4</item>
+        <item name="android:shadowColor">@color/gray_5</item>
+        <item name="android:shadowDx">4</item>
+        <item name="android:shadowDy">4</item>
+        <item name="android:shadowRadius">5</item>
+    </style>
+    <style name="style_text_full_screen_activity_2">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">15dp</item>
+        <item name="android:fontFamily">@font/permane</item>
+        <item name="android:textColor">@color/pink_1</item>
+        <item name="android:shadowColor">@color/pink_2</item>
+        <item name="android:shadowDx">8</item>
+        <item name="android:shadowDy">8</item>
+        <item name="android:shadowRadius">5</item>
+    </style>
+    <style name="style_button_full_screen_activity">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">48dp</item>
+        <item name="android:paddingHorizontal">65dp</item>
+        <item name="android:paddingVertical">5dp</item>
+        <item name="android:fontFamily">@font/dongle</item>
+
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:background">@drawable/custom_button_hello_screen</item>
+    </style>
+    <style name="style_text_input_edit_text_account">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/custom_input_login</item>
+        <item name="android:fontFamily">@font/dongle</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="lineHeight">20sp</item>
+        <item name="android:textSize">33dp</item>
+        <item name="android:paddingVertical">8dp</item>
+        <item name="android:textCursorDrawable">@drawable/custom_pointer_color</item>
+    </style>
+    <style name="style_text_input_layout_account">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginHorizontal">30dp</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:background">@drawable/custom_input_login</item>
+        <item name="android:elevation">4dp</item>
+        <item name="counterTextColor">@color/black</item>
+        <item name="hintAnimationEnabled">true</item>
+        <item name="hintEnabled">false</item>
+    </style>
+    <style name="style_title_login">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">30dp</item>
+        <item name="android:fontFamily">@font/mali</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">23dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="style_button_login_account">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">25dp</item>
+        <item name="android:fontFamily">@font/mali</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/custom_button_login</item>
+        <item name="android:textSize">19dp</item>
+        <item name="android:elevation">5dp</item>
+        <item name="android:layout_marginHorizontal">30dp</item>
+    </style>
+    <style name="style_text_view_login">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/aldrich</item>
+        <item name="android:textColor">@color/color_text_view_login</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:shadowColor">@color/color_shadow_text_view_login</item>
+        <item name="android:shadowRadius">5</item>
+        <item name="android:shadowDx">3</item>
+        <item name="android:shadowDy">3</item>
+    </style>
+    <style name="style_img_button_sign_in">
+        <item name="android:layout_width">50dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:elevation">1dp</item>
+        <item name="android:background">@drawable/custom_button_icon_sign_up</item>
+    </style>
+    <style name="style_button_add_1">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingHorizontal">40dp</item>
+        <item name="android:layout_marginVertical">15dp</item>
+        <item name="android:background">@drawable/custom_button_1</item>
+        <item name="android:fontFamily">@font/mali</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:elevation">10dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">19dp</item>
+    </style>
+    <style name="style_text_dialog_function">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">20dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/mali</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+    <style name="style_text_dialog_change_color">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">20dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/mali</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+    <style name="style_card_view_dialog_change_color">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:layout_marginStart">25dp</item>
+    </style>
+    <style name="style_card_view_dialog_change_color_2">
+        <item name="android:layout_width">50dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <style name="style_img_show_nav">
+        <item name="android:layout_width">35dp</item>
+        <item name="android:layout_height" >28dp</item>
+        <item name="android:elevation" >5dp</item>
+        <item name="android:scaleType" >fitCenter</item>
+        <item name="android:background" >@drawable/custom_border_nav_icon</item>
+    </style>
+
+    <style name="style_search_view_frag">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height" >35dp</item>
+        <item name="android:layout_marginEnd" >40dp</item>
+        <item name="android:layout_marginStart">20dp</item>
+        <item name="android:layout_marginBottom" >10dp</item>
+        <item name="android:background" >@drawable/custom_search_view</item>
+
+    </style>
+
+</resources>

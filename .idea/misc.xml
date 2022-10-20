@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/background_dialog_add_1.xml" value="0.2645" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/background_long_click_items.xml" value="0.2215" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/background_spinner.xml" value="0.2355" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/background_spinner_2.xml" value="0.2215" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/background_spinner_item.xml" value="0.2355" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/background_switch_thumb.xml" value="0.2215" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/background_swtich_thumb.xml" value="0.2215" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/custom_button_1.xml" value="0.2645" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/custom_button_2.xml" value="0.2765" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/custom_button_3.xml" value="0.2355" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/custom_button_hello_screen.xml" value="0.2765" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/custom_button_login.xml" value="0.2645" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/custom_color_fab_1.xml" value="0.2645" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/custom_input_login.xml" value="0.2765" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/custom_search_view.xml" value="0.2645" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/ic_add.xml" value="0.2645" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/ic_hide_search_view.xml" value="0.2645" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/ic_search_view.xml" value="0.2645" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/background_item_home.xml" value="0.2125" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/background_spinner_item_2.xml" value="0.2765" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/background_switch_button.xml" value="0.2215" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/background_swtich_button.xml" value="0.2215" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/custom_bg_item_dialog_librarian.xml" value="0.2765" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/custom_boder_nav_icon.xml" value="0.189" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/custom_border_nav_icon.xml" value="0.2645" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/custom_border_nav_icon_2.xml" value="0.2645" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/custom_button_4.xml" value="0.2765" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/custom_circle_view.xml" value="0.189" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/custom_color_view_home.xml" value="0.2125" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/custom_edit_text_dialog_libranian.xml" value="0.2765" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/custom_edit_text_dialog_librarian.xml" value="0.2765" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/custom_edittext_change_pass.xml" value="0.2235" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/custom_search_view_2.xml" value="0.2645" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/custom_solid_one_items_1.xml" value="0.2645" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/custom_solid_one_items_2.xml" value="0.16" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/ic_add_2.xml" value="0.2645" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/ic_camera.xml" value="0.2765" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/ic_dot_1.xml" value="0.2765" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/ic_heart.xml" value="0.2645" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/ic_hide_source.xml" value="0.2645" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/ic_lock_dialog.xml" value="0.2765" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/ic_menu_nav.xml" value="0.189" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/ic_phone_dialog.xml" value="0.2765" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/ic_search.xml" value="0.2645" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/drawable/ic_user_dialog.xml" value="0.2765" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/font/abel.xml" value="0.35" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/font/arvo.xml" value="0.20052083333333334" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/activity_hello_full_screen.xml" value="0.25" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/books_fragment.xml" value="0.33" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/custom_snackbar_error.xml" value="0.3489583333333333" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/dialog_add_book.xml" value="0.22916666666666666" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/dialog_add_kind_of_book.xml" value="0.25" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/dialog_add_librarians.xml" value="0.33" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/dialog_add_loan_slip.xml" value="0.33" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/dialog_add_member.xml" value="0.33" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/dialog_change_background.xml" value="0.2796875" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/dialog_change_pass.xml" value="0.3489583333333333" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/dialog_see_details_loan_slip.xml" value="0.2703125" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/home_fragment.xml" value="0.33" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/kind_of_book_fragment.xml" value="0.25" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/layout_container_fragment_home.xml" value="0.25" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/layout_function_item_book_1.xml" value="0.5" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/layout_header_nav.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/layout_items_spinner_kind_of_book.xml" value="0.33" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/layout_items_spinner_loan_slip.xml" value="0.3489583333333333" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/layout_one_item_books.xml" value="0.33" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/layout_one_item_kind_of_book.xml" value="0.33" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/layout_one_item_librarian.xml" value="0.3489583333333333" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/layout_one_item_loan_slip.xml" value="0.3489583333333333" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/layout_one_item_member.xml" value="0.3489583333333333" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/layout_one_item_top_book.xml" value="0.33" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/librarian_fragment.xml" value="0.33" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/loan_slip_fragment.xml" value="0.33" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/members_fragment.xml" value="0.33" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/revenue_fragment.xml" value="0.25" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/layout/top_books_fragment.xml" value="0.3326530612244898" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/Mob2041_DuAnMau/MOB2041_DuAnMau/app/src/main/res/menu/menu_nav.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/mob2041_duanmau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/custom_button_hello_screen.xml" value="0.178" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/mob2041_duanmau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/custom_button_icon_sign_up.xml" value="0.179" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/mob2041_duanmau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/custom_button_login.xml" value="0.2195" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/mob2041_duanmau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/custom_err_text.xml" value="0.2195" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/mob2041_duanmau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/custom_input_login.xml" value="0.2195" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/mob2041_duanmau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/custom_pointer_color.xml" value="0.2195" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/mob2041_duanmau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/custom_solid_one_items_notes_2.xml" value="0.178" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/mob2041_duanmau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/custom_success_text.xml" value="0.2195" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/mob2041_duanmau/MOB2041_DuAnMau/app/src/main/res/drawable-v24/ic_twitter.xml" value="0.2195" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/mob2041_duanmau/MOB2041_DuAnMau/app/src/main/res/font/abel.xml" value="0.3296296296296296" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/mob2041_duanmau/MOB2041_DuAnMau/app/src/main/res/layout/activity_hello_full_screen.xml" value="0.3489583333333333" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/mob2041_duanmau/MOB2041_DuAnMau/app/src/main/res/layout/activity_login.xml" value="0.3489583333333333" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/mob2041_duanmau/MOB2041_DuAnMau/app/src/main/res/layout/activity_main.xml" value="0.3489583333333333" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/mob2041_duanmau/MOB2041_DuAnMau/app/src/main/res/layout/activity_sign_up.xml" value="0.3489583333333333" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/mob2041_duanmau/MOB2041_DuAnMau/app/src/main/res/layout/custom_snackbar_error.xml" value="0.3489583333333333" />
+        <entry key="..\:/Android Studio/MOB2041_DuAnMau(TLMT)/mob2041_duanmau/MOB2041_DuAnMau/app/src/main/res/layout/custom_success_text.xml" value="0.3489583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

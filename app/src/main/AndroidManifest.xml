@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="vn.edu.poly.mob2041_duanmau">
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/book"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/book"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MOB2041_DuAnMau">
+
+
+        <activity
+            android:name=".ACTIVITYS.SignUpActivity"
+            android:exported="false"
+            />
+        <activity
+            android:name=".ACTIVITYS.LoginActivity"
+            android:exported="false"
+
+            />
+        <activity
+            android:name=".ACTIVITYS.DialogAddLibrarian"
+            android:exported="false"
+
+            />
+        <activity
+            android:name=".ACTIVITYS.HelloFullScreenActivity"
+            android:exported="true"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            />
+    </application>
+
+</manifest>

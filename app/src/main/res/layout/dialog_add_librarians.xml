@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:id="@+id/layoutAdd"
+    android:background="@color/white">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:paddingBottom="10dp">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageButton
+                android:id="@+id/icBack"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/ic_back"
+                android:background="@android:color/transparent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintHorizontal_bias="0.04"
+                app:layout_constraintVertical_bias="0.02"/>
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="130dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/item_dialog_librarian"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.98"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <TextView
+                android:id="@+id/tvTitleDialog"
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:fontFamily="@font/baloo_tammudu"
+                android:text="Tạo thủ thư mới"
+                android:textColor="#4E4D4D"
+                android:textSize="33dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/icBack"
+                app:layout_constraintHorizontal_bias="0.1"
+                app:layout_constraintVertical_bias="0.1"/>
+
+            <TextView
+                android:id="@+id/tvChangeAvatar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/dongle"
+                android:text="( Thêm ảnh nền tại đây )"
+                android:textColor="@color/gray_2"
+                android:textSize="25dp"
+                android:textStyle="italic"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/constraintLayout"
+                app:layout_constraintTop_toBottomOf="@+id/tvTitleDialog"
+                app:layout_constraintVertical_bias="0.05"
+                app:layout_constraintHorizontal_bias="0.02"/>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/constraintLayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.15"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvTitleDialog"
+                app:layout_constraintVertical_bias="0.01">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/imgAvatarLibrarian"
+                    android:layout_width="85dp"
+                    android:layout_height="85dp"
+                    android:layout_marginBottom="8dp"
+                    android:background="@drawable/custom_circle_view"
+                    android:padding="5dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/ic_chooser_img"
+                    app:civ_border_color="#CFCFCF"
+                    app:civ_border_width="2dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <ImageButton
+                    android:id="@+id/ic_add_img"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_alignEnd="@+id/imgAvatarLibrarian"
+                    android:background="@drawable/custom_bg_item_dialog_librarian"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/ic_camera"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="1.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="1.0" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingVertical="5dp"
+                android:background="@color/white"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/constraintLayout"
+                app:layout_constraintVertical_bias="0.03">
+                <EditText
+                    android:id="@+id/edNameLib"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="30dp"
+                    android:drawableStart="@drawable/ic_user_dialog"
+                    android:paddingLeft="10dp"
+                    android:inputType="text"
+                    android:paddingVertical="15dp"
+                    android:drawablePadding="8dp"
+                    android:background="@drawable/custom_edit_text_dialog_librarian"
+                    android:hint="Họ và tên"
+                    android:fontFamily="@font/alata"
+                    android:textSize="20dp"
+                    android:elevation="10dp"
+                    />
+
+                <EditText
+                    android:id="@+id/edPhoneLib"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="30dp"
+                    android:drawableStart="@drawable/ic_phone_dialog"
+                    android:paddingLeft="10dp"
+                    android:inputType="phone"
+                    android:paddingVertical="15dp"
+                    android:drawablePadding="8dp"
+                    android:background="@drawable/custom_edit_text_dialog_librarian"
+                    android:hint="Số điện thoại"
+                    android:fontFamily="@font/alata"
+                    android:textSize="20dp"
+                    android:elevation="10dp"
+                    android:layout_marginTop="15dp"
+                  />
+                <EditText
+                    android:id="@+id/edUserLib"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="30dp"
+                    android:drawableStart="@drawable/ic_user_dialog"
+                    android:paddingLeft="10dp"
+                    android:paddingVertical="15dp"
+                    android:inputType="text"
+                    android:drawablePadding="8dp"
+                    android:background="@drawable/custom_edit_text_dialog_librarian"
+                    android:hint="Tên đăng nhập"
+                    android:fontFamily="@font/alata"
+                    android:textSize="20dp"
+                    android:elevation="10dp"
+                    android:layout_marginTop="15dp"/>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/tilPassLib"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    app:passwordToggleEnabled="true"
+                    app:passwordToggleTint="#1786DD"
+                    android:layout_marginHorizontal="30dp"
+                    android:elevation="10dp"
+                    android:paddingVertical="5dp"
+                    app:hintEnabled="false"
+                    app:hintAnimationEnabled="true"
+                    android:background="@drawable/custom_edit_text_dialog_librarian"
+                    >
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/edPass"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/custom_edit_text_dialog_librarian"
+                        android:drawableStart="@drawable/ic_lock_dialog"
+                        android:drawablePadding="8dp"
+                        android:fontFamily="@font/alata"
+                        android:hint="Mật khẩu"
+                        android:inputType="textPassword"
+                        android:paddingVertical="10dp"
+                        android:paddingLeft="10dp"
+                        android:textSize="20dp"
+
+                        />
+                </com.google.android.material.textfield.TextInputLayout>
+
+
+                <Button
+                    android:id="@+id/btnSaveLib"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/custom_button_4"
+                    android:elevation="20dp"
+                    android:fontFamily="@font/mali"
+                    android:paddingHorizontal="20dp"
+                    android:paddingVertical="5dp"
+                    android:textColor="@color/black"
+                    android:text="Lưu thông tin"
+                    android:textSize="16dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="35dp"
+                    android:layout_marginBottom="10dp"/>
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+</LinearLayout>

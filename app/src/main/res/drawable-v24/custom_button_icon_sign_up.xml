@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true" android:state_focused="true">
+        <shape android:shape="oval">
+            <solid android:color="@color/color_input_login"/>
+        </shape>
+    </item>
+    <item android:state_enabled="true">
+        <shape android:shape="oval">
+            <stroke android:color="#DFDEDE" android:width="0.7dp"/>
+            <solid android:color="@color/white"/>
+        </shape>
+    </item>
+</selector>

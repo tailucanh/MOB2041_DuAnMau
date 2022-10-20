@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Books Management</string>
+
+    <string name="button_start">Bắt đầu</string>
+    <string name="title_login">Đăng nhập</string>
+    <string name="title_signup">Đăng kí</string>
+    <string name="hint_input_account_1">Tài khoản của bạn</string>
+    <string name="hint_input_account_2">Tài khoản mới</string>
+    <string name="hint_input_pass">Mật khẩu</string>
+    <string name="login_content1">Bạn chưa có tài khoản ?\ </string>
+    <string name="login_content2">Đăng kí\ </string>
+    <string name="signup_content1">Tài khoản đã sẵn sàng?\ </string>
+    <string name="signup_content2">Đăng nhập\ </string>
+    <string name="signup_content3">Hoặc\ </string>
+
+    <string name="error_account_name">Vui lòng nhập tên tài khoản</string>
+    <string name="error_pass">Vui lòng nhập mật khẩu</string>
+    <string name="error_account_name_2">Tên tài khoản sai! Hãy nhập lại.</string>
+    <string name="error_pass_2">Mật khẩu sai! Hãy nhập lại</string>
+
+    <string name="successful_text">Đăng nhập thành công!</string>
+    <string name="successful_text_2">Đăng kí thành công!</string>
+
+    <string name="text_nav_1"><i>Thống kê</i></string>
+    <string name="text_nav_2"><i>Người dùng</i></string>
+
+    <string name="text_revenue"><u>Tại đây.</u></string>
+    <string name="text_search">Tìm kiếm</string>
+
+
+</resources>
